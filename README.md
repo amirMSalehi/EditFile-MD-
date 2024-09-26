@@ -1,2 +1,4 @@
-<h1 align="center">Amir Mohammad Salehi</h1>
-
+<div align="center">
+<h1 text="blue">Amir Mohammad Salehi</h1>
+  
+</div>
