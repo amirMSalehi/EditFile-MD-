@@ -1,2 +1,2 @@
-<h1 color="blue">Amir Mohammad Salehi</h1>
+<h1 align="center">Amir Mohammad Salehi</h1>
 
