@@ -4,5 +4,5 @@
 </div>
 <h3>My Expertise:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,github,js,ts,tailwind,figma,ai,ps,react"/>
-<h3>Ways of communication</h3>
+<h3>Ways of Communication</h3>
 <img src="https://skillicons.dev/icons?i=instagram,linkedin,gmail"/>
